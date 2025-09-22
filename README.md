@@ -17,6 +17,13 @@ The dashboards provide insights into revenue distribution, customer demographics
 - **Excel Dashboarding:** Built dynamic dashboards using PivotTables, slicers, and advanced formulas (`SUMIFS`, `IF`, `XLOOKUP`, `LET`, `INDEX/MATCH`).  
 - **Automation:** Used VBA to automate updates and business logic, reducing manual effort.
 
+## 🖼️ Dashboard Screenshots
+![Dashboard 1](Dashboard1.png)  
+*Revenue & Customer Insights Dashboard*
+
+![Dashboard 2](Dashboard2.png)  
+*Profitability & Trend Analysis Dashboard*
+
 ## 📌 Dashboard Requirements
 
 ### **Dashboard 1**
@@ -43,5 +50,13 @@ SQL · Microsoft Excel · Data Visualization · Dashboards · KPI Dashboards · 
 Please **download** the following files to view the dashboards properly:  
 - `B&J Dashboard Requirements Sales Dashboard Project Detailed - Official.xlsm`  
 - `B&J Biscuit Dataset.xlsx`  
-
 Open in **Excel Desktop** for full interactivity, including PivotTables, slicers, and macros.
+
+## 📂 Project Files
+- `README.md` – Project description and instructions.
+- `B&J Biscuit Dataset.xlsx` – Raw sales data used for analysis.
+- `B&J Dashboard Requirements.pdf` – Official project requirements.
+- `Sales Dashboard Project Detailed - Official.xlsm` – Interactive Excel dashboards with PivotTables, slicers, and VBA.
+- `B&J_Analysis_Queries.sql` – SQL queries used for data cleaning and analysis.
+- `Dashboard1.png` – Screenshot of Revenue & Customer Insights Dashboard.
+- `Dashboard2.png` – Screenshot of Profitability & Trend Analysis Dashboard.
