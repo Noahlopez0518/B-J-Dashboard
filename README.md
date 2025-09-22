@@ -18,11 +18,11 @@ The dashboards provide insights into revenue distribution, customer demographics
 - **Automation:** Used VBA to automate updates and business logic, reducing manual effort.
 
 ## 🖼️ Dashboard Screenshots
-![Dashboard 1](Dashboard1.png)  
+![Dashboard 1](Images/Dashboard1.png)  
 *Revenue & Customer Insights Dashboard*
-
-![Dashboard 2](Dashboard2.png)  
+![Dashboard 2](Images/Dashboard2.png)  
 *Profitability & Trend Analysis Dashboard*
+
 
 ## 📌 Dashboard Requirements
 
