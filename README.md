@@ -1,5 +1,5 @@
 # B&J-Dashboard
-Sales analytics system using SQL and Excel. Cleaned 50K+ rows of transactional data, built KPIs, and delivered interactive dashboards with PivotTables, formulas, and VBA automation.
+Sales analytics system using SQL and Excel. Cleaned rows of transactional data, built KPIs, and delivered interactive dashboards with PivotTables, formulas, and VBA automation.
 
 ## 📊 Project Overview
 Designed and delivered a comprehensive sales analytics system that transformed raw transactional data into highly visual, interactive insights using SQL and Excel.  
