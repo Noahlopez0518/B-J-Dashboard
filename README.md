@@ -16,7 +16,7 @@ The dashboards provide insights into revenue distribution, customer demographics
 - **Excel Dashboarding:** Built dynamic dashboards using PivotTables, slicers, and advanced formulas (`SUMIFS`, `IF`, `XLOOKUP`, `LET`, `INDEX/MATCH`).  
 - **Automation:** Used VBA to automate updates and business logic, reducing manual effort.
 
-📈 Project Impact
+## 📈 Project Impact
 This personal project demonstrates advanced data analytics, Excel, and SQL skills while simulating real-world business scenarios:
 - Enhanced Analytical Skills: Practiced cleaning, transforming, and analyzing large datasets using SQL and Excel.
 - Advanced Dashboarding: Built dynamic, interactive dashboards with PivotTables, slicers, and VBA, showcasing proficiency in Excel reporting.
