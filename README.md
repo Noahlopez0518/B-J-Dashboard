@@ -8,10 +8,10 @@ The dashboards provide insights into revenue distribution, customer demographics
 - **Data Cleaning & Preparation:** Cleaned and structured rows using SQL (joins, filters, calculated fields) to prepare analysis-ready data.  
 - **Business Insights:** Answered key questions with SQL, including top revenue-generating customers, profit margin trends, and monthly vs. weekend sales performance.  
 - **KPI Engineering:**  
-  - Total Revenue: $61,567,883  
-  - COGS: $34,783,050  
-  - Profit: $26,784,833  
-  - Quantity Sold: 3,050,309  
+  - Total Revenue: $61M+  
+  - COGS: $34M+ 
+  - Profit: $26M+  
+  - Quantity Sold: 3M+ 
   - Profit Margin: 43.50%  
 - **Excel Dashboarding:** Built dynamic dashboards using PivotTables, slicers, and advanced formulas (`SUMIFS`, `IF`, `XLOOKUP`, `LET`, `INDEX/MATCH`).  
 - **Automation:** Used VBA to automate updates and business logic, reducing manual effort.
