@@ -68,7 +68,6 @@ Open the Excel dashboard files in the Dashboards folder. For full functionality,
 2. **Navigating the Dashboards**:
 - Use filters for location, payment method, age group, or other dropdowns to dynamically update charts and pivot tables.
 - Explore Revenue & Customer Insights and Profitability & Trend Analysis dashboards to see key metrics, trends, and performance indicators.
-
 3. **Interpreting Results**:
 - **KPIs**: Total Revenue, COGS, Profit, Quantity Sold, Profit Margin.
 - **Dashboards**: Visualize revenue distribution, customer demographics, geographic performance, and product-level profitability.
