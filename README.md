@@ -29,8 +29,7 @@ This personal project demonstrates advanced data analytics, Excel, and SQL skill
 *Revenue & Customer Insights Dashboard*
 ![Dashboard 2](Images/Dashboard2.png)  
 *Profitability & Trend Analysis Dashboard*
-![Detailed Report](Images/Detailed Report.png) 
-*Analysis for dashboard 1*
+
 
 ## 📌 Dashboard Requirements
 
