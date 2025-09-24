@@ -32,7 +32,6 @@ This personal project demonstrates advanced data analytics, Excel, and SQL skill
 
 ### 📈 Detailed Reports
 Detailed view of analysis results:
-
 ![Detailed Report](Images/Detailed Report.png)  
 
 ### 📊 Analysis Tables
