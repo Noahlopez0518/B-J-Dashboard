@@ -37,7 +37,9 @@ Detailed view of analysis results:
 ### 📊 Analysis Tables
 Key pivot tables and analysis:
 ![Analysis 1](Images/Analysis%201.png)  
+*Analysis Dashboard 1*
 ![Analysis 2](Images/Analysis%202.png)
+*Analysis Dashboard 2*
 
 ## 📌 Dashboard Requirements
 
