@@ -90,4 +90,4 @@ Open in **Excel Desktop** for full interactivity, including PivotTables, slicers
 - **Documentation**: Project requirements, methodology explanations, and additional documentation.
 - **Images**: Screenshots of dashboards, analysis tables, and detailed reports used for README visualization.
 - **SQL**: Contains all SQL queries used for cleaning, aggregating, and analyzing raw sales data. These queries not only supported the creation of dashboards and detailed reports but also calculated key totals and numbers such as revenue, COGS, profit, quantity sold, and profit margins.
-
+- **VBA**: Contains macros used clear slicers and to automate report generation, including the **Sales Summary Report**, which consolidates key metrics, tables, and summary statistics into a dedicated Excel sheet.
