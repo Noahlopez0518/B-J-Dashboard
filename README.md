@@ -70,11 +70,9 @@ Please **download** the following files to view the dashboards properly:
 Open in **Excel Desktop** for full interactivity, including PivotTables, slicers, and macros.
 
 ### 📂 Project Files
-- `README.md` – Project description and instructions.
-- `Data/B&J Biscuit Dataset.xlsx` – Raw sales data used for analysis.
-- `Documentation/B&J Dashboard Requirements.pdf` – Official project requirements.
-- `Dashboards/Sales Dashboard Project Detailed - Official.xlsm` – Interactive Excel dashboards with PivotTables, slicers, and VBA.
-- `SQL/B&J_Analysis_Queries.sql` – SQL queries used for data cleaning and analysis.
-- `Images/Dashboard1.png` – Screenshot of Revenue & Customer Insights Dashboard.
-- `Images/Dashboard2.png` – Screenshot of Profitability & Trend Analysis Dashboard.
+- Dashboard: Interactive Excel dashboards with PivotTables, slicers, and charts visualizing revenue, profitability, and sales trends.
+- Data: Raw sales data (e.g., B&J Biscuit Dataset.xlsx) used for all analyses.
+- Documentation: Project requirements, methodology explanations, and additional documentation.
+- Images: Screenshots of dashboards, analysis tables, and detailed reports used for README visualization.
+- SQL: SQL queries used to clean, transform, and prepare raw sales data for analysis.
 
