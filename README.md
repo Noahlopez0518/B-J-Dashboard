@@ -32,13 +32,12 @@ This personal project demonstrates advanced data analytics, Excel, and SQL skill
 
 ### 📈 Detailed Reports
 Detailed view of analysis results:
-![Detailed Report](Images/Detailed Report.png)  
+![Detailed Report](Images/Detailed%20Report.png)
 
 ### 📊 Analysis Tables
 Key pivot tables and analysis:
-
-![Analysis 1](Images/Analysis 1.png)  
-![Analysis 2](Images/Analysis 2.png)  
+![Analysis 1](Images/Analysis%201.png)  
+![Analysis 2](Images/Analysis%202.png)
 
 ## 📌 Dashboard Requirements
 
