@@ -62,6 +62,21 @@ Key pivot tables and analysis:
 ## 🛠️ Skills & Tools
 SQL · Microsoft Excel · Data Visualization · Dashboards · KPI Dashboards · Business Intelligence (BI) · VBA · Data Cleaning  
 
+## 🖥️ How to Use the Dashboard & Program
+1. **Open the Dashboards**:
+Open the Excel dashboard files in the Dashboards folder. For full functionality, make sure to enable macros.
+2. **Navigating the Dashboards**:
+- Use filters for location, payment method, age group, or other dropdowns to dynamically update charts and pivot tables.
+- Explore Revenue & Customer Insights and Profitability & Trend Analysis dashboards to see key metrics, trends, and performance indicators.
+
+3. **Interpreting Results**:
+- **KPIs**: Total Revenue, COGS, Profit, Quantity Sold, Profit Margin.
+- **Dashboards**: Visualize revenue distribution, customer demographics, geographic performance, and product-level profitability.
+- **Analysis Tables**: Explore detailed pivot tables for trends, comparisons (QoQ, MoM, WoW), and insights into top-performing products or customers.
+4. **Detailed Reports**:
+- Use the Detailed Report file to see comprehensive data and calculated results.
+- Use it in conjunction with dashboards to drill down into specifics of sales performance and revenue trends.
+
 ## ⚠️ Important Note
 **The Excel dashboard files are large and may not preview in GitHub.**  
 Please **download** the following files to view the dashboards properly:  
@@ -70,9 +85,9 @@ Please **download** the following files to view the dashboards properly:
 Open in **Excel Desktop** for full interactivity, including PivotTables, slicers, and macros.
 
 ### 📂 Project Files
-- Dashboard: Interactive Excel dashboards with PivotTables, slicers, and charts visualizing revenue, profitability, and sales trends.
-- Data: Raw sales data (e.g., B&J Biscuit Dataset.xlsx) used for all analyses.
-- Documentation: Project requirements, methodology explanations, and additional documentation.
-- Images: Screenshots of dashboards, analysis tables, and detailed reports used for README visualization.
-- SQL: SQL queries used to clean, transform, and prepare raw sales data for analysis.
+- **Dashboard**: Interactive Excel dashboards with PivotTables, slicers, and charts visualizing revenue, profitability, and sales trends.
+- **Data**: Raw sales data (e.g., B&J Biscuit Dataset.xlsx) used for all analyses.
+- **Documentation**: Project requirements, methodology explanations, and additional documentation.
+- **Images**: Screenshots of dashboards, analysis tables, and detailed reports used for README visualization.
+- **SQL**: Contains all SQL queries used for cleaning, aggregating, and analyzing raw sales data. These queries not only supported the creation of dashboards and detailed reports but also calculated key totals and numbers such as revenue, COGS, profit, quantity sold, and profit margins.
 
