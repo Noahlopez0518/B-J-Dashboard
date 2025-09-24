@@ -30,6 +30,16 @@ This personal project demonstrates advanced data analytics, Excel, and SQL skill
 ![Dashboard 2](Images/Dashboard2.png)  
 *Profitability & Trend Analysis Dashboard*
 
+### 📈 Detailed Reports
+Detailed view of analysis results:
+
+![Detailed Report](Images/Detailed Report.png)  
+
+### 📊 Analysis Tables
+Key pivot tables and analysis:
+
+![Analysis 1](Images/Analysis 1.png)  
+![Analysis 2](Images/Analysis 2.png)  
 
 ## 📌 Dashboard Requirements
 
