@@ -80,7 +80,7 @@ Open the Excel dashboard files in the Dashboards folder. For full functionality,
 ## ⚠️ Important Note
 **The Excel dashboard files are large and may not preview in GitHub.**  
 Please **download** the following files to view the dashboards properly:  
-- `B&J Dashboard Requirements Sales Dashboard Project Detailed - Official.xlsm`  
+- `Sales Dashboard Project Detailed - Official.xlsm`  
 - `B&J Biscuit Dataset.xlsx`  
 Open in **Excel Desktop** for full interactivity, including PivotTables, slicers, and macros.
 
